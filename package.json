@@ -1,0 +1,23 @@
+{
+  "name": "tic-tac-toe-cl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennykha/tic-tac-toe-CL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennykha/tic-tac-toe-CL/issues"
+  },
+  "homepage": "https://github.com/kennykha/tic-tac-toe-CL#readme",
+  "dependencies": {
+    "node": "^15.4.0",
+    "prompt": "^1.1.0"
+  }
+}
